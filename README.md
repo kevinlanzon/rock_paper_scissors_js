@@ -1,4 +1,4 @@
-Rock, paper, scissors in JavaScript
+Rock, Paper, Scissors in JavaScript
 ======================
 
-My rock, paper, scissors game in JavaScript
+My Rock, Paper, Scissors game in JavaScript
