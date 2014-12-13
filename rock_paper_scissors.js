@@ -38,8 +38,10 @@ else if (choice1 === "scissors")
     else {
         return "scissors wins";
     }   
+    
 };
 
 compare(userChoice, computerChoice);
+
 
 
